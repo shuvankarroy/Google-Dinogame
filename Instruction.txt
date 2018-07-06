@@ -1,0 +1,5 @@
+﻿Instruction for google dino game:
+
+1) do not delete any file from dinodata folder
+2) ducking down is mapped to "down arrow(↑)" key
+3) jump is mapped to "Space bar" key
